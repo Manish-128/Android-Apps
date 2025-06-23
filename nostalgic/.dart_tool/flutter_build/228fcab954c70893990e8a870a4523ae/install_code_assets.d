@@ -1,0 +1,1 @@
+ C:\\Users\\manis\\Documents\\GitHub\\Apps\\nostalgic\\.dart_tool\\flutter_build\\228fcab954c70893990e8a870a4523ae\\native_assets.json: 

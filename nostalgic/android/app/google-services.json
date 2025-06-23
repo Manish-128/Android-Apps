@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861730774114",
+    "project_id": "nostalgia-ba0de",
+    "storage_bucket": "nostalgia-ba0de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861730774114:android:011f7b6e829f06aa9a453b",
+        "android_client_info": {
+          "package_name": "com.nostalgic.nostalgic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpw_8h-VWK_Gj6NkMh-w3JkjudRg5jDKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

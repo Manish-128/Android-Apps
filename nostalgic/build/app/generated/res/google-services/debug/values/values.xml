@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">861730774114</string>
+    <string name="google_api_key" translatable="false">AIzaSyCpw_8h-VWK_Gj6NkMh-w3JkjudRg5jDKk</string>
+    <string name="google_app_id" translatable="false">1:861730774114:android:011f7b6e829f06aa9a453b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCpw_8h-VWK_Gj6NkMh-w3JkjudRg5jDKk</string>
+    <string name="google_storage_bucket" translatable="false">nostalgia-ba0de.firebasestorage.app</string>
+    <string name="project_id" translatable="false">nostalgia-ba0de</string>
+</resources>
